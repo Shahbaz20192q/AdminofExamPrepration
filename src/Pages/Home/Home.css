@@ -1,0 +1,14 @@
+.wrepper {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrepper p {
+  font-size: 24px;
+}
+
+.wrepper p span {
+  color: var(--accent-color);
+}
