@@ -1,0 +1,12 @@
+.image-td {
+  max-width: 50px;
+}
+
+.image-td img {
+  max-width: 50px;
+}
+
+.classes-wrepper .primaryBtn {
+  margin: 20px auto;
+  display: block;
+}

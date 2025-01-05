@@ -1,0 +1,38 @@
+.mcq-form-container {
+  max-width: 400px; /* Reduced width for a smaller form */
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+.mcq-form-container button {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px; /* Reduced margin */
+}
+
+.form-group {
+  margin-bottom: 10px; /* Reduced margin */
+}
+
+.form-input {
+  width: 100%;
+  padding: 8px; /* Reduced padding */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.correct-option-container {
+  display: flex;
+  justify-content: space-between; /* Space out the options */
+}
+
+.correct-option-label {
+  margin-left: 5px; /* Reduced margin */
+}
